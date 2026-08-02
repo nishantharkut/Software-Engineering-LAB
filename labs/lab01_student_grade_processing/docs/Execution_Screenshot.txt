@@ -1,0 +1,14 @@
+Command:
+.\.venv\Scripts\python .\labs\lab01_student_grade_processing\src\main.py
+
+Output:
+Student Grade Processing System
+Input workbook : labs\lab01_student_grade_processing\data\input\Student_Records_Input.xlsx
+Output workbook: labs\lab01_student_grade_processing\data\output\Student_Records_Updated.xlsx
+Total records  : 12
+Grades assigned: 9
+Invalid records: 3
+Validation errors:
+  Row 8 (2026IT007): End examination marks out of range
+  Row 9 (2026ECE008): Missing input
+  Row 10 (2026ME009): Invalid data type
