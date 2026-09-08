@@ -1,0 +1,14 @@
+[
+  {
+    "vehicle_id": "V001",
+    "vehicle_name": "Swift Dzire",
+    "vehicle_type": "Sedan",
+    "rental_price_per_day": 1800.0
+  },
+  {
+    "vehicle_id": "V002",
+    "vehicle_name": "Activa 6G",
+    "vehicle_type": "Scooter",
+    "rental_price_per_day": 600.0
+  }
+]

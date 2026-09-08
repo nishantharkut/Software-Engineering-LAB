@@ -3,8 +3,7 @@
 Semester lab repository for Software Engineering Laboratory coursework.
 
 The repository is organized so each experiment is isolated, reproducible, and easy
-to review. Lab 1 is complete; later labs can be added as sibling folders under
-`labs/` without changing the existing submission.
+to review. Labs 1, 2, and 4 are maintained as sibling folders under `labs/`.
 
 `Software_Engineering_Labs.ipynb` is the cumulative notebook for the semester. It
 records the runnable execution and observed results for each lab while the full
@@ -15,7 +14,7 @@ source files and deliverables stay inside the matching lab folder.
 ```text
 .
 |-- labs/
-|   `-- lab01_student_grade_processing/
+|   |-- lab01_student_grade_processing/
 |       |-- data/
 |       |   |-- input/
 |       |   `-- output/
@@ -23,7 +22,14 @@ source files and deliverables stay inside the matching lab folder.
 |       |-- src/
 |       |-- tests/
 |       `-- README.md
-|-- Lab sheet SE-1.pdf
+|   |-- lab02_library_management_system/
+|   `-- lab04_real_world_applications/
+|       |-- data/
+|       |-- docs/
+|       |-- src/
+|       |-- tests/
+|       `-- README.md
+|-- labs_pdf/
 |-- Software_Engineering_Labs.ipynb
 |-- pyproject.toml
 `-- requirements.txt

@@ -1,0 +1,6 @@
+Vehicle Rental Management System
+Vehicle added successfully.
+Vehicle rented successfully.
+Rented vehicles: V001 | Swift Dzire | Sedan | 1800.00/day
+Vehicle returned successfully.
+Application exited successfully.

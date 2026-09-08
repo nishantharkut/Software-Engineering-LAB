@@ -1,0 +1,7 @@
+Restaurant Order Management System
+Food item added successfully.
+Food item added to order.
+Subtotal: 1250.00
+Discount: 125.00
+Final total: 1125.00
+Application exited successfully.

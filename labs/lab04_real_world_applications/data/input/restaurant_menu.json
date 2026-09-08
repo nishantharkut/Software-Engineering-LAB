@@ -1,0 +1,16 @@
+[
+  {
+    "food_id": "F001",
+    "food_name": "Veg Thali",
+    "category": "Main Course",
+    "price": 250.0,
+    "available_quantity": 10
+  },
+  {
+    "food_id": "F002",
+    "food_name": "Masala Tea",
+    "category": "Beverage",
+    "price": 40.0,
+    "available_quantity": 25
+  }
+]

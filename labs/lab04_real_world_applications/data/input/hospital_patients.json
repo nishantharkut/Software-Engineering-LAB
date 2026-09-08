@@ -1,0 +1,14 @@
+[
+  {
+    "patient_id": "P001",
+    "patient_name": "Asha Rao",
+    "doctor_name": "Dr. Mehta",
+    "department": "Cardiology"
+  },
+  {
+    "patient_id": "P002",
+    "patient_name": "Rohan Das",
+    "doctor_name": "Dr. Kapoor",
+    "department": "Orthopedics"
+  }
+]

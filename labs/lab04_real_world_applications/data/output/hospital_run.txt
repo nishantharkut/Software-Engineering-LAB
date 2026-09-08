@@ -1,0 +1,6 @@
+Hospital Appointment Management System
+Patient added successfully.
+Appointment booked successfully.
+Doctor report: Dr. Mehta -> P001, 2026-09-01, Booked
+Appointment cancelled successfully.
+Application exited successfully.
